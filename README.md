@@ -9,7 +9,7 @@
 
 ## Introduction
 
-This repository is dedicated to the CIC-359 [Design & Analysis of Algorithm LAB](./Resources/LAB_Syllabus.pdf) course instructed by Dr. Moolchand Sharma. The course covers various fundamental and advanced algorithms, including sorting algorithms, searching algorithms, graph algorithms, and string matching algorithms.
+This repository is dedicated to the CIC-359 [Design & Analysis of Algorithm LAB](./Resources/List%20of%20Experiments.jpg) course instructed by Dr. Moolchand Sharma. The course covers various fundamental and advanced algorithms, including sorting algorithms, searching algorithms, graph algorithms, and string matching algorithms.
 
 ## Installation
 
