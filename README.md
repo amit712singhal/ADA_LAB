@@ -5,6 +5,7 @@
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Available Programs](#available-programs)
 - [License](#license)
 
 ## Introduction
@@ -43,7 +44,7 @@ To compile and run any of the programs, use the following commands:
    ./a
    ```
 
-### Available Programs:
+## Available Programs
 
 1. Sorting Algorithms:
    - `exp_01.1_bubbleSort.cpp` - Bubble Sort
